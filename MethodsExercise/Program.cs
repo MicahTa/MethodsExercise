@@ -43,6 +43,7 @@ namespace MethodsExercise
 
         static void Main(string[] args)
         {
+            // Show the math
             mathamatics math = new mathamatics();
 
             int sum = math.sum(new int[] { 1, 2, 3, 4 });
@@ -52,8 +53,9 @@ namespace MethodsExercise
             int quotent = math.multiply(2, 4);
             Console.WriteLine($"multiply: {quotent}");
             double dontKnowTheWord = math.devide(3, 2);
-            Console.WriteLine($"devide: {dontKnowTheWord}");
+            Console.WriteLine($"devide: {dontKnowTheWord}\n");
 
+            // Do the story
             story();
 
         }
