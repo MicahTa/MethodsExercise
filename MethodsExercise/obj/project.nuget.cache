@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "EUcQvUS1Uxg=",
+  "dgSpecHash": "cY3WfeKl8Qc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
+  "projectFilePath": "c:\\Users\\micah\\OneDrive\\Desktop\\BootCamp\\RandomAaaaShiz\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\micah\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\micah\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\micah\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\micah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\micah\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
   ],
